@@ -16,6 +16,12 @@
     <loc>https://www.omkar.cc/experience/experience2/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.omkar.cc/about/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://www.omkar.cc/contact/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://www.omkar.cc/categories/</loc>
   </url><url>
     <loc>https://www.omkar.cc/tags/</loc>
