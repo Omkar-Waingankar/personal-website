@@ -6,48 +6,37 @@
     <description>Recent content on omkar.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.omkar.cc/experience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.omkar.cc/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello Friend</title>
-      <link>https://www.omkar.cc/experience/experience1/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Nylas</title>
+      <link>https://www.omkar.cc/experience/nylas/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.omkar.cc/experience/experience1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
-Fusce pharetra suscipit orci nec tempor.</description>
-      <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Sed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.&lt;/li&gt;
-&lt;li&gt;Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.&lt;/li&gt;
-&lt;li&gt;Aenean facilisis ut ipsum condimentum ultrices.&lt;/li&gt;
-&lt;li&gt;Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.&lt;/li&gt;
-&lt;/ul&gt;
+      <guid>https://www.omkar.cc/experience/nylas/</guid>
+      <description>Nylas is a Series C SaaS startup focused on simplifying the developer experience around email / communication data, and I specifically build APIs and event-driven microservices in Go to support our latest machine learning / analytic offerings.</description>
+      <content>&lt;p&gt;Nylas is a Series C SaaS startup focused on simplifying the developer experience around email / communication data, and I specifically build APIs and event-driven microservices in Go to support our latest machine learning / analytic offerings.&lt;/p&gt;
 </content>
     </item>
     
     <item>
-      <title>Hello Friend 2</title>
-      <link>https://www.omkar.cc/experience/experience2/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <title>8VC</title>
+      <link>https://www.omkar.cc/experience/8vc/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.omkar.cc/experience/experience2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
-Fusce pharetra suscipit orci nec tempor.</description>
-      <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Sed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.&lt;/li&gt;
-&lt;li&gt;Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.&lt;/li&gt;
-&lt;li&gt;Aenean facilisis ut ipsum condimentum ultrices.&lt;/li&gt;
-&lt;li&gt;Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.&lt;/li&gt;
-&lt;/ul&gt;
+      <guid>https://www.omkar.cc/experience/8vc/</guid>
+      <description>I was on the investment team at the Silicon Valley venture capital firm, 8VC. I spoke with founders building B2B SaaS products in spaces spanning sales enablement, databases, kubernetes / devops, travel, ML feature stores, and more under the mentorship of 8VC Partner Bhaskar Ghosh</description>
+      <content>&lt;p&gt;I was on the investment team at the Silicon Valley venture capital firm, &lt;a href=&#34;https://www.8vc.com/&#34;&gt;8VC&lt;/a&gt;. I spoke with founders building B2B SaaS products in spaces spanning sales enablement, databases, kubernetes / devops, travel, ML feature stores, and more under the mentorship of 8VC Partner &lt;a href=&#34;https://www.8vc.com/team/bhaskar-ghosh&#34;&gt;Bhaskar Ghosh&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Flipout</title>
+      <link>https://www.omkar.cc/experience/flipout/</link>
+      <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.omkar.cc/experience/flipout/</guid>
+      <description>In college, I started Flipout, a free-to-play sports betting platform, and got my first taste of iterating on a product, forming partnerships with other business, raising venture funds, and immersing myself in the Bay Area&amp;rsquo;s tech entrepreneurship scene.</description>
+      <content>&lt;p&gt;In college, I started &lt;a href=&#34;https://flipout.io&#34;&gt;Flipout&lt;/a&gt;, a free-to-play sports betting platform, and got my first taste of iterating on a product, forming partnerships with other business, raising venture funds, and immersing myself in the Bay Area&amp;rsquo;s tech entrepreneurship scene.&lt;/p&gt;
 </content>
     </item>
     
