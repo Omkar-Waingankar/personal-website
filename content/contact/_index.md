@@ -1,6 +1,6 @@
-# Contact Me!
+# Contact
 
-- Email: omkar (dot) waingankar (at) gmail (dot) com
+- Email: omkar (dot) w (dot) work (at) gmail (dot) com
 - LinkedIn: https://www.linkedin.com/in/omkar-waingankar/
 - Github: https://github.com/Omkar-Waingankar 
-- Twitter: N/A
+- Twitter: https://twitter.com/omkar_1799
