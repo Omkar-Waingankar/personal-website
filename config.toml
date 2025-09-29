@@ -9,7 +9,7 @@ paginate = 5
   contentTypeName = "hello"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
+  themeColor = "light"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 4
@@ -82,19 +82,19 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "linkedin"
+        name = "LinkedIn"
+        url = "https://www.linkedin.com/in/omkar-waingankar/"
         weight = 1
       [[languages.en.menu.main]]
-        identifier = "experience"
-        name = "Experience"
-        url = "/experience"
+        identifier = "email"
+        name = "Email"
+        url = "mailto:omkarw.work@gmail.com"
         weight = 2
       [[languages.en.menu.main]]
-        identifier = "contact"
-        name = "Contact"
-        url = "/contact"
+        identifier = "github"
+        name = "Github"
+        url = "https://github.com/Omkar-Waingankar"
         weight = 3
       [[languages.en.menu.main]]
         identifier = "blog"
