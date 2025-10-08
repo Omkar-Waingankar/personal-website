@@ -5,8 +5,6 @@ author = "Omkar Waingankar"
 description = "Exploring the process of fine-tuning a text-to-image AI model inspired by the unique watercolor art of @annalaura_art, including dataset creation, model training, and lessons learned."
 +++
 
-## Intro
-
 In an effort to explore fine-tuning generative AI models, I decided to try my hand at fine-tuning a text-to-image model on one of my favorite Instagram accounts, @annalaura_art. Anna Laura's work is characterized by soft watercolor drawings of adorable characters meant to evoke feelings of comfort and gratitude in their audience. I trained this model purely for my own personal exploration, and have absolutely no intention of using it to produce or publish artwork similar to theirs.
 
 Here are some examples of Annalaura's work:
