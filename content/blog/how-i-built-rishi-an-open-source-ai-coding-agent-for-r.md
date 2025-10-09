@@ -51,11 +51,11 @@ Second, Rishi would need to be open-source and architected to run entirely local
 
 Third, I needed to add explicit guardrails to prevent Rishi from hallucinating like other tools. I added support for a custom R help tool that grounds AI answers in actual package documentation. When Rishi needs to reference a function, it can pull up the official help files to ensure accuracy.
 
-Fourth, Rishi's UX needed to be as simple and intuitive as possible. Even though the audience is other developers, I wanted to ensure that anyone could get started without reading lengthy docs or configuring complex settings. You can just install the addin, enter your API key, and start coding with AI assistance right away.
+Fourth, and finally, Rishi's UX needed to be as simple and intuitive as possible. Even though the audience is other developers, I wanted to ensure that anyone could get started without having to read the usage guide or go through a bunch of setup steps. You just install the addin, enter your API key, and start chatting with Rishi.
 
 # How Rishi works under the hood
 
-Counter to what some may expect, most of Rishi is not actually written in R. There's only a couple hundred lines of R code in the entire project, and it exists purely to launch the addin and provide tooling that allows Rishi to interact directly with RStudio's interface via the `rstudioapi` package.
+Counterintuitively, most of Rishi is not actually written in R. There's only a couple hundred lines of R code in the entire project, and it exists purely to launch the addin and provide tooling that allows Rishi to interact directly with RStudio's interface via the `rstudioapi` package.
 
 The frontend is written in TypeScript and React, which webpack bundles into a single static JavaScript file that gets shipped with the addin. The backend agentic loop is written in Go and compiled into a binary that's also installed alongside the addin. When you install Rishi from GitHub using:
 
@@ -63,7 +63,7 @@ The frontend is written in TypeScript and React, which webpack bundles into a si
 remotes::install_github("Omkar-Waingankar/rishi", subdir = "addin")
 ```
 
-you're pulling down this pre-bundled package that contains both the compiled frontend assets and the Go binary. The `subdir = "addin"` parameter is important here because it tells R to install specifically from the addin subdirectory where everything is packaged together.
+you're pulling down a pre-bundled package that contains the compiled frontend asset, the Go binaries for various OS targets, and the R launcher.
 
 At runtime, when you launch Rishi with:
 
@@ -71,9 +71,9 @@ At runtime, when you launch Rishi with:
 rishi:::rishiAddin()
 ```
 
-two things happen simultaneously: it opens the RStudio Viewer pane and renders the Rishi frontend, while also executing the compiled Go binary to spin up the backend server. The frontend then communicates with this local server to handle all the AI logic, tool execution, and conversation management.
+two things happen simultaneously: it opens the RStudio Viewer pane and renders the Rishi frontend, while also executing the compiled Go binary corresponding to your OS to spin up the backend server. The frontend then communicates with this local server to handle all the AI logic, tool execution, and conversation management.
 
-I explicitly chose this architecture for a few reasons. First, I'm admittedly more familiar with TypeScript, React, and Go than the R/Shiny ecosystem, so I could move faster and build something more polished. Second, it gave me a clean separation of concerns where the frontend handles the UI, the backend manages the AI agent loop, and the R code acts as the bridge to RStudio's APIs. Finally, Go has incredibly rich package support for building LLM applications, and its very easy to compile and target any OS.
+I explicitly chose this architecture for a few reasons. The primary reason is because I'm admittedly more familiar with TypeScript, React, and Go than the R/Shiny ecosystem, so I could move faster and build something more polished. On the other hand, it also gave me a clean separation of concerns between the UI, agent loop, and R tooling. And lastly, Go has rich package support for building LLM applications, and its very easy to compile and target any OS.
 
 # Future directions
 
