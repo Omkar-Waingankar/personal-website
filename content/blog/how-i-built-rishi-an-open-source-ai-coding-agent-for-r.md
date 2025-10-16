@@ -7,7 +7,7 @@ description = "This blog post explores the product and engineering choices that 
 
 Today, I launched Rishi, an open-source AI coding agent for R. Building Rishi thus far has truly been a labor of love, and it felt necessary to peel back the curtain a bit and share why I started this project and what went into bringing it to life. If you're looking to learn more about Rishi as a product and try it out yourself, please visit [tryrishi.com](https://tryrishi.com).
 
-<video style="max-width: 100%;" controls src="https://v8smvj8yqcz9aedn.public.blob.vercel-storage.com/rishi_demo.mp4"></video>
+<video style="max-width: 100%;" controls src="https://pub-21dd5a46fa1f46798859612fa3cf3a8a.r2.dev/rishi_demo.mp4"></video>
 
 # A brief history of R and RStudio
 
@@ -25,7 +25,7 @@ A massive paradigm shift in how code is written, reviewed, and deployed is curre
 
 Despite this, AI-driven programming has not yet achieved ubiquity outside Silicon Valley or entrepreneurial circles. In particular, the plethora of work done by data scientists and researchers in academia has yet to be dramatically augmented with these tools. 
 
-I know this firsthand because the idea for Rishi started with watching my girlfriend, a biology PhD candidate, give up on attempting to debug an obscure error herself and turn to ChatGPT for help (no shame at all, as I soon learned R errors are uniquely cryptic and unhelpful). She'd copy the error into the browser, wait for a response, copy that back into RStudio, find it didn't work, and repeat the cycle. 
+I know this firsthand because the idea for Rishi started with watching my girlfriend, a biology PhD student, give up on attempting to debug an obscure error herself and turn to ChatGPT for help (no shame at all, as I soon learned R errors are uniquely cryptic and unhelpful). She'd copy the error into the browser, wait for a response, copy that back into RStudio, find it didn't work, and repeat the cycle. 
 
 It felt like I had turned back the clock about a year ago, and I immediately thought to myself "there has to be a better way".
 
