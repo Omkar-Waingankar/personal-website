@@ -1,8 +1,8 @@
 # Hello!
 
-My name is Omkar Waingankar, and I’m currently building voice AI agents as a founding engineer at [Wayfaster](https://wayfaster.com). We're pioneering the future of recruiting, starting with our AI interviewer Steve. Automate resume search, phone screens, skills assessments and references with us! 
+My name is Omkar Waingankar, and I'm currently a Software Engineer on the Agents team at [ElevenLabs](https://elevenlabs.io), working on cutting-edge AI voice technology and conversational agents.
 
-Previously, I was on the Platform Team at [Nylas](https://nylas.com), and prior to that, I invested in startups with [Bhaskar Ghosh](https://www.8vc.com/team/bhaskar-ghosh) at [8VC](https://www.8vc.com/).
+Previously, I was a founding engineer at [Wayfaster](https://wayfaster.com), building voice AI agents to revolutionize recruiting. Before that, I was on the Platform Team at [Nylas](https://nylas.com), and I invested in startups with [Bhaskar Ghosh](https://www.8vc.com/team/bhaskar-ghosh) at [8VC](https://www.8vc.com/).
 
 On the side, I enjoy building and testing my own projects; I'm currently exploring 1) agentic coding and 2) AI safety.
 
